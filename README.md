@@ -213,8 +213,13 @@ if __name__ == "__main__":
 ```
 <hr>
 <h2>Sample Input and Output:</h2>
-![277157251-8d5e329a-9aff-41a6-bcf0-46efa10e1b92](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/b1adad56-fb84-47bb-a268-3770e9c0db48)
-![277157284-438b242d-54ba-443e-b040-a936e6ae3b55](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/7a215cc8-f9db-4543-9014-45f924c01478)
+
+![277157251-8d5e329a-9aff-41a6-bcf0-46efa10e1b92](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/785fe55b-24de-4358-b741-53aab4ac00c8)
+
+![277157284-438b242d-54ba-443e-b040-a936e6ae3b55](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/07792f26-9b24-4f28-a623-a8af16ec59b0)
+
+
+
 
 ![277157302-99a33390-fa11-4ade-a19f-e93bcd7aaec9](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/99007f57-0ffa-4a31-bc99-b303d0c3463a)
 ![277157325-440797bd-53cb-49c1-b18d-89776864c3e7](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/a2597bca-f23c-4ea6-90ca-c428cef1267a)
