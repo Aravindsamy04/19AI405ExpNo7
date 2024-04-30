@@ -213,13 +213,15 @@ if __name__ == "__main__":
 ```
 <hr>
 <h2>Sample Input and Output:</h2>
-![277157251-8d5e329a-9aff-41a6-bcf0-46efa10e1b92](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/e0117231-35ff-4914-b463-4aa052bc8113)
-![277157284-438b242d-54ba-443e-b040-a936e6ae3b55](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/3b5e376f-c652-4b12-989f-837fee04457b)
+![277157251-8d5e329a-9aff-41a6-bcf0-46efa10e1b92](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/b1adad56-fb84-47bb-a268-3770e9c0db48)
+![277157284-438b242d-54ba-443e-b040-a936e6ae3b55](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/7a215cc8-f9db-4543-9014-45f924c01478)
 
-![277157302-99a33390-fa11-4ade-a19f-e93bcd7aaec9](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/5c1a0ee0-1384-4229-a386-69f824076582)
-![277157325-440797bd-53cb-49c1-b18d-89776864c3e7](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/7e82b13d-8921-4794-a0ae-2da8eb7b0331)
+![277157302-99a33390-fa11-4ade-a19f-e93bcd7aaec9](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/99007f57-0ffa-4a31-bc99-b303d0c3463a)
+![277157325-440797bd-53cb-49c1-b18d-89776864c3e7](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/a2597bca-f23c-4ea6-90ca-c428cef1267a)
+![277157356-81575a16-26b2-46f1-a8ac-27c9ed0a0fe5](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/d06eb641-cd64-4770-9173-eb2a260798a0)
 
-![277157356-81575a16-26b2-46f1-a8ac-27c9ed0a0fe5](https://github.com/Aravindsamy04/19AI405ExpNo7/assets/113497037/9f54467c-8186-4141-bd72-8df780f64e69)
+
+
 
 
 ## RESULT :
